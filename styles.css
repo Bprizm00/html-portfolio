@@ -30,14 +30,14 @@ h2{
 
 .laptop{
     position: absolute;
-    right: 250px;
-    top: 250px;
+    right: 120px;
+    top: 150px;
 }
 
 .light{
     position: absolute;
-    right: 180px;
-    top: 120px;
+    right: 90px;
+    top: 110px;
 }
 
 .top-container{
@@ -97,8 +97,9 @@ hr{
     color: #CDE8E5;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-
-   
+}
+.button-container{
+    padding-top: 20px;
 }
 
 .last-line{
